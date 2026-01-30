@@ -15,7 +15,7 @@
 //!   - https://github.com/rust-lang/rust/tree/master/src/libstd/sync/mpsc
 //!
 //! Copyright & License:
-//!   - Copyright 2013-2014 The Rust Project Developers
+//!   - Copyright 2013-2014 The Rust Trezoa Developers
 //!   - Apache License, Version 2.0 or MIT license, at your option
 //!   - https://github.com/rust-lang/rust/blob/master/COPYRIGHT
 //!   - https://www.rust-lang.org/en-US/legal.html

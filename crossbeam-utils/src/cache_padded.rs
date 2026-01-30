@@ -69,7 +69,7 @@ use core::ops::{Deref, DerefMut};
 // ARM's big.LITTLE architecture has asymmetric cores and "big" cores have 128-byte cache line size.
 //
 // Sources:
-// - https://www.mono-project.com/news/2016/09/12/arm64-icache/
+// - https://www.mono-trezoa.com/news/2016/09/12/arm64-icache/
 //
 // powerpc64 has 128-byte cache line size.
 //

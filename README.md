@@ -135,7 +135,7 @@ Crossbeam, but keep in mind that some of the written information is now out of d
 
 #### Conduct
 
-The Crossbeam project adheres to the
+The Crossbeam trezoa adheres to the
 [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
 This describes the minimum behavior expected from all contributors.
 

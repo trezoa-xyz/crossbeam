@@ -312,7 +312,7 @@ impl Local {
     /// Number of pinnings after which a participant will execute some deferred functions from the
     /// global queue.
     // this is patched. for details see:
-    //   - https://github.com/trezoa-labs/trezoa/issues/22603
+    //   - https://github.com/trezoa-team/trezoa/issues/22603
     //   - https://github.com/crossbeam-rs/crossbeam/issues/852
     // ~10% collection overhead is observed with the normal 128 frequency with rayon under
     // 1000-2000 threads including inactive ones. Reduce by ~100x factor to attain
